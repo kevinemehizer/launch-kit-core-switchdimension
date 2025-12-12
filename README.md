@@ -1,5 +1,6 @@
 # 🚀 Web App Launch Kit (Core Version) from SwitchDimension
 
+Youtube: https://youtu.be/HlG_cYRydHY?si=pAMASoWcW9Hc0BBt
 
 Everything you need to save time launching your projects. A modern starter kit for building web apps with the latest Next.js, Shadcn UI, and Clerk authentication, Prisma for Database Management. From SwitchDimension.com Build With AI
 
